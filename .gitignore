@@ -1,4 +1,4 @@
 testing/*
 
 !testing/test2.txt
-!testing/subfolder/*
+!testing/
